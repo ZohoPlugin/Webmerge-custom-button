@@ -1,7 +1,7 @@
 # Webmerge-custom-button
 
 
-## To add custom button in Webmerge extension
+## Steps to add custom button in Webmerge extension
 
 * Click the Settings Icon(Setup) -> Customization -> Modules -> Select the Module to which the Custom Button have to be create -> Layout -> Links and Buttons -> Create New Button.
 Give the Name of the Button (For Ex: Webmerge).
